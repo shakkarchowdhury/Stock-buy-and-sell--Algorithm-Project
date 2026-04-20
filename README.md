@@ -3,6 +3,11 @@
 A console-based **stock trading simulation system** built in C++, designed to model real-world trading workflows including buying, selling, portfolio tracking, and profit analysis — all using virtual capital.
 
 ---
+Project Output: 
+
+👉 This video shows how the stock trading simulator works, including buying, selling, and tracking profits in real time.
+
+https://github.com/user-attachments/assets/d402b634-353f-47ca-9dbf-d69e77d9d098
 
 🚀 Overview
 
@@ -108,11 +113,6 @@ g++ stock.cpp -o stock
 ```
 
 ---
-Project Output: 
-
-👉 This video shows how the stock trading simulator works, including buying, selling, and tracking profits in real time.
-
-https://github.com/user-attachments/assets/d402b634-353f-47ca-9dbf-d69e77d9d098
 
 
 📸 Sample Workflow

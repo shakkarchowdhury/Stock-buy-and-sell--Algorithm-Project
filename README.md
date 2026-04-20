@@ -1,3 +1,4 @@
+
  📈 Stock Trading Simulator (C++)
 
 A console-based **stock trading simulation system** built in C++, designed to model real-world trading workflows including buying, selling, portfolio tracking, and profit analysis — all using virtual capital.
@@ -70,6 +71,8 @@ The application is structured using core C++ constructs:
   * `Stock` → Market assets
   * `Portfolio` → User holdings
   * `User` → Account + balance + investments
+
+  <img width="15904" height="16384" alt="project drawio" src="https://github.com/user-attachments/assets/77fbe732-799d-403d-9dca-ee76b856f2fa" />
 
 **Global State Management**
 
